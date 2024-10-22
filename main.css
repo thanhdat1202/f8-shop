@@ -1,0 +1,9 @@
+.box{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(214, 21, 21, 0.8);
+}
+h1::first-line{
+    color:red;
+    font-size: 70px;
+}
